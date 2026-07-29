@@ -126,7 +126,7 @@ npm run preview
 
 ## 📍 About Jee's Natural
 
-Jee's Natural is a fruit shots bar located near the Fire Station, Samshera Box Cricket, Nikol, Ahmedabad, Gujarat 380049. The shop is known for serving 100% real fruit shots with zero artificial flavours, at affordable prices, and stays open daily until 11:30 PM.
+Jee's Natural is a fruit shots bar located near the Fire Station, Samshera Box Cricket, Nikol, Ahmedabad, Gujarat 380049. The shop is known for serving 100% real fruit shots with zero artificial flavours, at affordable prices.
 
 ---
 
